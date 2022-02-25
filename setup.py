@@ -7,7 +7,7 @@ setup(
     author='Evan Rynearson',
     author_email='evan.rynearson@kodares.com',
     # Needed to actually package something
-    packages=['exponent'],
+    packages=['exponents'],
     # Needed for dependencies
     #install_requires=['numpy'],
     # *strongly* suggested for sharing
